@@ -5,7 +5,7 @@
 
 
 
-### Part 1: Introduction to Software Engineering
+###Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
 

@@ -38,7 +38,7 @@ Mastering machine
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
-agile methodology - Iterative and incremental, with multiple cycles (sprints). 
+<br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). </br>
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.

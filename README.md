@@ -37,7 +37,7 @@ Mastering machine
 - there is Low flexibility,
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
- - Testing is done at the end of the development process.
+ - Testing is done at the end of the development process. <br></br>
 <br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). </br>
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 

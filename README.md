@@ -38,9 +38,9 @@ Mastering machine
  <br>-Customer feedback comes late, after the product is developed. </b>
 <br> -Testing is done at the end of the development process. </br>
 <br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). </br>
-  <br> -High flexibility, adapts to changing requirements. </br>
-  <br> -Regular customer feedback is incorporated into every sprint. 
-  <br> -Testing is continuous and done after each iteration. </br>
+  <br> -High flexibility, adapts to changing requirements. 
+  -Regular customer feedback is incorporated into every sprint. 
+  -Testing is continuous and done after each iteration. </br>
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
  Software Developer - developing applications,programs and systems using programming languages and frameworks.

@@ -9,8 +9,7 @@
 
 ### 1.Explain what software engineering is and discuss its importance in the technology industry.
 
-**software engineering** is a branch of computer science used for developing, testing and maintaining software.
-**reliability**- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+**software engineering** is a branch of computer science used for developing, testing and maintaining software. **reliability**- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 **efficiency** - it helps to optimize developer workflow while maintaining high quality standards.
 **scalability and flexibility** - it ensures that the system can handle an increased load without affecting performance.
 **security** - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.

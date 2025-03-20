@@ -5,9 +5,9 @@
 
 
 
-##Part 1: Introduction to Software Engineering
+## Part 1: Introduction to Software Engineering
 
-### 1.Explain what software engineering is and discuss its importance in the technology industry.
+## 1.Explain what software engineering is and discuss its importance in the technology industry.
 
 *+software engineering** is a branch of computer science used for developing, testing and maintaining software. **reliability**- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 **efficiency** - it helps to optimize developer workflow while maintaining high quality standards.

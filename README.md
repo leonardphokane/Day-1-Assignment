@@ -1,8 +1,9 @@
+
+
+
 ## SE_Day1_Assignment
 
-git status
-git add
-git commit
+
 
 #Part 1: Introduction to Software Engineering
 

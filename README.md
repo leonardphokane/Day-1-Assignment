@@ -96,10 +96,10 @@ Mastering machine
   <br> - help to ensure data flows smoothly between modules and interfaces work as expected. </br>
  <br> **System testing** -Focus on the entire software system as a whole, including all functionalities and interactions. </br>
  <br> -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security . </br>
-<br> **Acceptance tests** - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
-- Whether the software meets the needs of the end-user and is ready for deployment. </br>
+<br> **Acceptance tests** - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. </br>
+<br> - Whether the software meets the needs of the end-user and is ready for deployment. </br>
 
-#Part 2: Introduction to AI and Prompt Engineering
+<br> #Part 2: Introduction to AI and Prompt Engineering </br>
 
 1.Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.

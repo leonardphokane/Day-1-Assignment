@@ -70,15 +70,15 @@ Mastering machine
 * The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
 * Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing. 
 <br> **Version Control Systems (VCS)** - are software tools that help software teams manage changes to source code over time. eg Git </br>
-  <h3>importance: </h3>
+  <br> importance: </br3>
 <br> **Collaboration**: Enables multiple developers to work on the same codebase without conflicts. </br>
 <br> **Change Tracking**: Records detailed history of changes, allowing easy analysis of each modification. </br>
 <br> -**Branching and Merging**: Supports creating branches for new features and merging them back into the main code. </br>
 <br> **Error Recovery**: Allows reverting to previous versions if new changes introduce errors</br>
 
-7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
--rapid technological advancement places considerable pressure on software engineers to stay current.
- Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
+7. <br> What are some common challenges faced by software engineers? Provide strategies to overcome these challenges. </br>
+<br> -**rapid technological advancement** places considerable pressure on software engineers to stay current.
+ <p> Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. - </p>
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
  Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
 -Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 

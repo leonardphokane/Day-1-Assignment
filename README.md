@@ -69,9 +69,9 @@ Mastering machine
 * An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the  IDE converts human-readable code into machine code from within the application.
 * The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
 * Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing. 
-Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
+<br> **Version Control Systems (VCS)** - are software tools that help software teams manage changes to source code over time. eg Git </br>
 importance:
-Collaboration: Enables multiple developers to work on the same codebase without conflicts.
+<br>Collaboration: Enables multiple developers to work on the same codebase without conflicts. </br>
 Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
 -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 Error Recovery: Allows reverting to previous versions if new changes introduce errors

@@ -62,7 +62,7 @@ Mastering machine
 <br><br> **An integrated development environment (IDE)** is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode) </br></br>
 <br>importance:</br>
 
-  * Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.  
+* Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.  
 * An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors. 
 * an IDE can make suggestions to complete a code statement when the developer begins typing.
 * IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
@@ -71,10 +71,10 @@ Mastering machine
 * Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing. 
 <br> **Version Control Systems (VCS)** - are software tools that help software teams manage changes to source code over time. eg Git </br>
 importance:
-<br>Collaboration: Enables multiple developers to work on the same codebase without conflicts. </br>
-Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
--Branching and Merging: Supports creating branches for new features and merging them back into the main code.
-Error Recovery: Allows reverting to previous versions if new changes introduce errors
+<br> **Collaboration**: Enables multiple developers to work on the same codebase without conflicts. </br>
+<br> **Change Tracking**: Records detailed history of changes, allowing easy analysis of each modification. </br>
+<br> -**Branching and Merging**: Supports creating branches for new features and merging them back into the main code. </br>
+<br> **Error Recovery**: Allows reverting to previous versions if new changes introduce errors</br>
 
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.

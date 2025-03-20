@@ -10,7 +10,7 @@
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
 
-**software engineering** is a branch of computer science used for developing, testing and maintaining software.
+<br> **software engineering** is a branch of computer science used for developing, testing and maintaining software. </br>
 <br> **reliability** - it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. </br> 
 <br>**efficiency** - it helps to optimize developer workflow while maintaining high quality standards.  </br> 
 <br>**scalability and flexibility** - it ensures that the system can handle an increased load without affecting performance.  </br> 

@@ -61,9 +61,9 @@ Mastering machine
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 <br><br> **An integrated development environment (IDE)** is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode) </br></br>
 <br>importance:</br>
-<ul>
-  <ol>Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code. 
-An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors. 
+
+  * Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.  
+* An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors. 
 an IDE can make suggestions to complete a code statement when the developer begins typing.
 IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
 An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.

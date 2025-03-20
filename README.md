@@ -33,14 +33,14 @@ Mastering machine
 <br>**testing** - examine the software for any bugs and glitches </br>
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-<br><br>**waterfall methodology** -Linear and sequential, each phase is completed before moving on. </br></br>
+<br>**waterfall methodology** -Linear and sequential, each phase is completed before moving on. </br>
 <br> -there is Low flexibility, changes are hard to incorporate once a phase is complete. <br>
  <br>-Customer feedback comes late, after the product is developed. </b>
 <br> -Testing is done at the end of the development process. </br>
-<br><br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). </br></br>
+<br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). </br>
   <br> -High flexibility, adapts to changing requirements. </br>
-  <br>-Regular customer feedback is incorporated into every sprint. </br>
-  <br>-Testing is continuous and done after each iteration. </br>
+  <br> -Regular customer feedback is incorporated into every sprint. </br>
+  <br> -Testing is continuous and done after each iteration. </br>
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
  Software Developer - developing applications,programs and systems using programming languages and frameworks.

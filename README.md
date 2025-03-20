@@ -24,10 +24,10 @@ Mastering machine
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
 <br>**planning** - identify the software requirement or purpose and scope. </br>
-<br>**requirement analysis - identify the final user specification. </br>
-<br>**design - building the framework. </br>
-<br>**coding - converting software design into tangible code. </br>
-<br>**testing - examine the software for any bugs and glitches </br>
+<br>**requirement analysis** - identify the final user specification. </br>
+<br>**design** - building the framework. </br>
+<br>**coding** - converting software design into tangible code. </br>
+<br>**testing** - examine the software for any bugs and glitches </br>
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 

@@ -92,10 +92,10 @@ Mastering machine
 
 <br>8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance. </br>
 <br> **Unit tests** - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components. </br>
- <br> **Integration tests** - verify that different modules or services used by your application work well together.
- - help to ensure data flows smoothly between modules and interfaces work as expected. </br>
- <br> **System testing** -Focus on the entire software system as a whole, including all functionalities and interactions.
- -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security . </br>
+ <br> **Integration tests** - verify that different modules or services used by your application work well together. </br>
+  <br> - help to ensure data flows smoothly between modules and interfaces work as expected. </br>
+ <br> **System testing** -Focus on the entire software system as a whole, including all functionalities and interactions. </br>
+ <br> -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security . </br>
 <br> **Acceptance tests** - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
 - Whether the software meets the needs of the end-user and is ready for deployment. </br>
 

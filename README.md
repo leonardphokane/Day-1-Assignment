@@ -56,7 +56,7 @@ Mastering machine
  <br> - discuss the project and it's requirement with the client and software developers. </br>
  <br> - create blueprint for the project. </br>
  <br> - tracking and communicating information regarding the project milestone. </br>
- <br> deliver the complete software to the client and regularly check its performance. </br>
+ <br> - deliver the complete software to the client and regularly check its performance. </br>
 
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 <br><br> **An integrated development environment (IDE)** is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode) </br></br>
@@ -70,7 +70,7 @@ Mastering machine
 * The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
 * Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing. 
 <br> **Version Control Systems (VCS)** - are software tools that help software teams manage changes to source code over time. eg Git </br>
-importance:
+  <h3>importance: </h3>
 <br> **Collaboration**: Enables multiple developers to work on the same codebase without conflicts. </br>
 <br> **Change Tracking**: Records detailed history of changes, allowing easy analysis of each modification. </br>
 <br> -**Branching and Merging**: Supports creating branches for new features and merging them back into the main code. </br>

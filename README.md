@@ -102,7 +102,7 @@ Mastering machine
 <br> #Part 2: Introduction to AI and Prompt Engineering </br>
 
 <br> 1.Define prompt engineering and discuss its importance in interacting with AI models. </br>
-**prompt engineering** is the process where you guide generative AI solutions to generate desired outputs.
+<br>**prompt engineering** is the process where you guide generative AI solutions to generate desired outputs. </br>
 <br>Importance: </br>
 <br> **Improved user experience** - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data. </br>
 <br> **Increased flexibility** - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns. </br>

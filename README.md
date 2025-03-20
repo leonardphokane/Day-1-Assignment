@@ -34,9 +34,9 @@ Mastering machine
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.<br></br>
 <br>**waterfall methodology** -Linear and sequential, each phase is completed before moving on. </br>
-<br> -there is Low flexibility, changes are hard to incorporate once a phase is complete.
- -Customer feedback comes late, after the product is developed.
- -Testing is done at the end of the development process. </br>
+<br> -there is Low flexibility, changes are hard to incorporate once a phase is complete. <br>
+ <br>-Customer feedback comes late, after the product is developed. </b>
+<br> -Testing is done at the end of the development process. </br>
 <br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). 
   -High flexibility, adapts to changing requirements. </br>
   -Regular customer feedback is incorporated into every sprint. 

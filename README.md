@@ -64,11 +64,11 @@ Mastering machine
 
   * Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.  
 * An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors. 
-an IDE can make suggestions to complete a code statement when the developer begins typing.
-IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
-An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
-The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
-Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing. </ul></ol>
+* an IDE can make suggestions to complete a code statement when the developer begins typing.
+* IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
+* An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the  IDE converts human-readable code into machine code from within the application.
+* The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
+* Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing. 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
 Collaboration: Enables multiple developers to work on the same codebase without conflicts.

@@ -110,7 +110,7 @@ Mastering machine
 
 <br>2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective. </br>
 <br>Draw a picture of a person </br>
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+<br>Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background. </br>
 <br>**Clarity**: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person. </br>
 <br>**Specific Details**: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created. </br>
 <br>**Concise**: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed. </br>

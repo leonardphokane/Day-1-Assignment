@@ -84,20 +84,20 @@ Mastering machine
 <br> **-Limited Infrastructure** - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
  <br> Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively. </br>
 <br> **Changing Software Requirements** - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. </br>
-<br> Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
+<br> Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components. </br>
 <br> **Software Security** - Programming secure software is a complex and challenging task. </br>
-Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
-<br> **Software Accessibility and Usability** - Overly complex software can frustrate or confuse users. 
-Solution: Use scalable architecture, Emphasize reliability. </br>
+<br>Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats </br>
+<br> **Software Accessibility and Usability** - Overly complex software can frustrate or confuse users. </br>
+<br>Solution: Use scalable architecture, Emphasize reliability. </br>
 
-8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
- Integration tests - verify that different modules or services used by your application work well together.
- - help to ensure data flows smoothly between modules and interfaces work as expected.
- System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
- -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
-Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
-- Whether the software meets the needs of the end-user and is ready for deployment.
+<br>8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance. </br>
+<br> **Unit tests** - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components. </br>
+ <br> **Integration tests** - verify that different modules or services used by your application work well together.
+ - help to ensure data flows smoothly between modules and interfaces work as expected. </br>
+ <br> **System testing** -Focus on the entire software system as a whole, including all functionalities and interactions.
+ -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security . </br>
+<br> **Acceptance tests** - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
+- Whether the software meets the needs of the end-user and is ready for deployment. </br>
 
 #Part 2: Introduction to AI and Prompt Engineering
 

@@ -2,11 +2,14 @@
 
 
 # SE_Day1_Assignment
-<br></br>
+<br>
   
-
+</br>
 #Part 1: Introduction to Software Engineering
-<br></br>
+<br>
+
+
+</br>
 
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
@@ -22,7 +25,7 @@ mastering complexity
 Mastering process
 Mastering machine
 
-3. List and briefly explain the phases of the Software Development Life Cycle.
+3.List and briefly explain the phases of the Software Development Life Cycle.
 <br>**planning** - identify the software requirement or purpose and scope. </br>
 <br>**requirement analysis** - identify the final user specification. </br>
 <br>**design** - building the framework. </br>

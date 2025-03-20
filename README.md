@@ -41,7 +41,7 @@ Mastering machine
 <br>**agile methodology** - Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. </br>
 - Regular customer feedback is incorporated into every sprint. 
-- Testing is continuous and done after each iteration.
+- Testing is continuous and done after each iteration. </br>
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
  Software Developer - developing applications,programs and systems using programming languages and frameworks.

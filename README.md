@@ -46,7 +46,7 @@ Mastering machine
  <br> **Software Developer** - developing applications,programs and systems using programming languages and frameworks. </br>
 <br> -maintaining and updating software to keep it functional. </br>
  <br> -collaborating with other team members to ensure best practice when developing software. </br>
-br> -reporting to the project manager about the progress of the software development. </br>
+<br> -reporting to the project manager about the progress of the software development. </br>
 <br> **Quality Assurance Engineer** - collaborate with stakeholders to understand and clarify software requirement. </br>
  <br> -create development standards and procedures for the programmers to follow </br>
  <br> -confirm that the software meets the requirement before deployment. </br>

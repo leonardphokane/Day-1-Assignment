@@ -43,7 +43,7 @@ Mastering machine
   <br> -Testing is continuous and done after each iteration. </br>
 
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
- Software Developer - developing applications,programs and systems using programming languages and frameworks.
+ <b> **Software Developer** - developing applications,programs and systems using programming languages and frameworks./br>
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
